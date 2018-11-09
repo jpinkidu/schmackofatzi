@@ -12,7 +12,7 @@ Brett, Messer, Kochlöffel, Topf mit Deckel (Fassungsvermögen mindestens 2 Lite
 
 ## Zutaten
 
-Anzahl | Zutaten |                          
+Menge | Zutaten |                          
 --- | --- | 
 2-3 | 	mittelgroße Zwiebeln | 
 2-3 |  	Knoblauchzehen | 
