@@ -1,4 +1,14 @@
-# Zutaten für 4 Portionen
+# Hokkaido-Suppe
+
+Zutaten für 4 Portionen
+
+Vorbereitungszeit: 5-10 Minuten
+
+Zubereitungszeit: 30 Minuten
+
+## Hilfsmittel
+
+Brett, Messer, Kochlöffel, Topf mit Deckel (Fassungsvermögen mindestens 2 Liter) 
 
 Anzahl | Zutaten |                          
 --- | --- | 
@@ -14,17 +24,8 @@ Anzahl | Zutaten |
 1 Prise |Salz, Pfeffer |
 nach Wahl | Muskatnuss, Currypulver |
 
-# Hilfsmittel
 
-Brett
-
-Messer
-
-Topf mit Deckel (Fassungsvermögen mindestens 2 Liter) 
-
-Kochlöffel
-
-# Vorgehensweise
+## Vorgehensweise
 
 Kürbis waschen und Stängel entfernen. Anschließend den Kürbis in kleine Würfel schneiden und von den Kernen befreien. 
 Zwiebeln, Knoblauch und Ingwer (außer Bio-Ingwer) schälen und kleinschneiden. 
